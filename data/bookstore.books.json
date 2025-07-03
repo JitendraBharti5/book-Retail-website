@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "6656c475fa357a0d39143e46"
+  },
+  "name": "Harry potter",
+  "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a",
+  "category": "all",
+  "price": "500",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716316497~exp=1716320097~hmac=9c813c65de9f83e703465cf880e2a5bd889218f62398c91c9830686370e75f88&w=740",
+  "id": "1"
+},
+{
+  "_id": {
+    "$oid": "6656c475fa357a0d39143e47"
+  },
+  "name": "Mahabharat",
+  "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a",
+  "category": "all",
+  "price": "500",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716316497~exp=1716320097~hmac=9c813c65de9f83e703465cf880e2a5bd889218f62398c91c9830686370e75f88&w=740",
+  "id": "2"
+},
+{
+  "_id": {
+    "$oid": "6656c475fa357a0d39143e48"
+  },
+  "name": "Gita",
+  "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a",
+  "category": "all",
+  "price": "500",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716316497~exp=1716320097~hmac=9c813c65de9f83e703465cf880e2a5bd889218f62398c91c9830686370e75f88&w=740",
+  "id": "3"
+},
+{
+  "_id": {
+    "$oid": "6656c475fa357a0d39143e49"
+  },
+  "name": "Ramayan",
+  "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a",
+  "category": "all",
+  "price": "500",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716316497~exp=1716320097~hmac=9c813c65de9f83e703465cf880e2a5bd889218f62398c91c9830686370e75f88&w=740",
+  "id": "4"
+},
+{
+  "_id": {
+    "$oid": "6656c475fa357a0d39143e4a"
+  },
+  "name": "shivani 8th sem",
+  "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a",
+  "category": "all",
+  "price": "500",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716316497~exp=1716320097~hmac=9c813c65de9f83e703465cf880e2a5bd889218f62398c91c9830686370e75f88&w=740",
+  "id": "5"
+},
+{
+  "_id": {
+    "$oid": "6656c475fa357a0d39143e4b"
+  },
+  "name": "English ncert",
+  "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a",
+  "category": "all",
+  "price": "500",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716316497~exp=1716320097~hmac=9c813c65de9f83e703465cf880e2a5bd889218f62398c91c9830686370e75f88&w=740",
+  "id": "6"
+},
+{
+  "_id": {
+    "$oid": "6656c475fa357a0d39143e4c"
+  },
+  "name": "Social science",
+  "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a",
+  "category": "all",
+  "price": "500",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716316497~exp=1716320097~hmac=9c813c65de9f83e703465cf880e2a5bd889218f62398c91c9830686370e75f88&w=740",
+  "id": "7"
+},
+{
+  "_id": {
+    "$oid": "6656c475fa357a0d39143e4d"
+  },
+  "name": "mathametics",
+  "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a",
+  "category": "all",
+  "price": "500",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716316497~exp=1716320097~hmac=9c813c65de9f83e703465cf880e2a5bd889218f62398c91c9830686370e75f88&w=740",
+  "id": "8"
+},
+{
+  "_id": {
+    "$oid": "6656c475fa357a0d39143e4e"
+  },
+  "name": "Bhagat sigh",
+  "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a",
+  "category": "all",
+  "price": "500",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716316497~exp=1716320097~hmac=9c813c65de9f83e703465cf880e2a5bd889218f62398c91c9830686370e75f88&w=740",
+  "id": "9"
+},
+{
+  "_id": {
+    "$oid": "6656c475fa357a0d39143e4f"
+  },
+  "name": "bjp",
+  "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a",
+  "category": "all",
+  "price": "500",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716316497~exp=1716320097~hmac=9c813c65de9f83e703465cf880e2a5bd889218f62398c91c9830686370e75f88&w=740"
+},
+{
+  "_id": {
+    "$oid": "6656c475fa357a0d39143e50"
+  },
+  "name": "congress ",
+  "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a",
+  "category": "all",
+  "price": "500",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716316497~exp=1716320097~hmac=9c813c65de9f83e703465cf880e2a5bd889218f62398c91c9830686370e75f88&w=740"
+},
+{
+  "_id": {
+    "$oid": "6656c475fa357a0d39143e51"
+  },
+  "name": "bajaj",
+  "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a",
+  "category": "all",
+  "price": "500",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716316497~exp=1716320097~hmac=9c813c65de9f83e703465cf880e2a5bd889218f62398c91c9830686370e75f88&w=740"
+},
+{
+  "_id": {
+    "$oid": "6656c475fa357a0d39143e52"
+  },
+  "name": "good",
+  "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a",
+  "category": "all",
+  "price": "500",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716316497~exp=1716320097~hmac=9c813c65de9f83e703465cf880e2a5bd889218f62398c91c9830686370e75f88&w=740"
+}]

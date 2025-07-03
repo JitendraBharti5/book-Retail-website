@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "66557de890b1251127b92731"
+  },
+  "id": "1",
+  "name": "Story books",
+  "price": "0",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716881120~exp=1716884720~hmac=f03e2a2345aac39c59cbf143969da57faf33315e768d2d39c640c435a9e4fc98&w=740"
+},
+{
+  "_id": {
+    "$oid": "66557de890b1251127b92732"
+  },
+  "id": "2",
+  "name": "Spirutual books",
+  "price": "0",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716881120~exp=1716884720~hmac=f03e2a2345aac39c59cbf143969da57faf33315e768d2d39c640c435a9e4fc98&w=740"
+},
+{
+  "_id": {
+    "$oid": "66557de890b1251127b92733"
+  },
+  "id": "3",
+  "name": "Motivational books",
+  "price": "0",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716881120~exp=1716884720~hmac=f03e2a2345aac39c59cbf143969da57faf33315e768d2d39c640c435a9e4fc98&w=740"
+},
+{
+  "_id": {
+    "$oid": "66557de890b1251127b92734"
+  },
+  "id": "4",
+  "name": "Autobiography",
+  "price": "0",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716881120~exp=1716884720~hmac=f03e2a2345aac39c59cbf143969da57faf33315e768d2d39c640c435a9e4fc98&w=740"
+},
+{
+  "_id": {
+    "$oid": "66557de890b1251127b92735"
+  },
+  "id": "5",
+  "name": "Comedy bookS",
+  "price": "0",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716881120~exp=1716884720~hmac=f03e2a2345aac39c59cbf143969da57faf33315e768d2d39c640c435a9e4fc98&w=740"
+},
+{
+  "_id": {
+    "$oid": "66557de890b1251127b92736"
+  },
+  "id": "6",
+  "name": "Novels",
+  "price": "0",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716881120~exp=1716884720~hmac=f03e2a2345aac39c59cbf143969da57faf33315e768d2d39c640c435a9e4fc98&w=740"
+},
+{
+  "_id": {
+    "$oid": "66557de890b1251127b92737"
+  },
+  "id": "7",
+  "name": "Generals",
+  "price": "0",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716881120~exp=1716884720~hmac=f03e2a2345aac39c59cbf143969da57faf33315e768d2d39c640c435a9e4fc98&w=740"
+},
+{
+  "_id": {
+    "$oid": "66557de890b1251127b92738"
+  },
+  "id": "8",
+  "name": "Astronomy",
+  "price": "0",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716881120~exp=1716884720~hmac=f03e2a2345aac39c59cbf143969da57faf33315e768d2d39c640c435a9e4fc98&w=740"
+},
+{
+  "_id": {
+    "$oid": "66557de890b1251127b92739"
+  },
+  "id": "9",
+  "name": "Song books",
+  "price": "0",
+  "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716881120~exp=1716884720~hmac=f03e2a2345aac39c59cbf143969da57faf33315e768d2d39c640c435a9e4fc98&w=740"
+}]
