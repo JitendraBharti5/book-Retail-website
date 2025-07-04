@@ -31,7 +31,6 @@ try {
 }
 
 // defining routes
-app.use("/", bookRoute);
 app.use("/book", bookRoute);
 app.use("/user", userRoute);
 app.use("/cate", cateRoute);
