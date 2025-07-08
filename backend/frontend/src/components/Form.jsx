@@ -32,7 +32,7 @@ function Form() {
     };
 
     try {
-      const res = await axios.post("/newbook", newBook);
+      const res = await axios.post("/book/newbook", newBook);
       if (res.data) {
         toast.success("Book posted successfully");
         navigate(from, { replace: true });
