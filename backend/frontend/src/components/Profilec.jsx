@@ -16,16 +16,17 @@ function Profilec() {
     }
   }, []);
 
-  const fetchUserBooks = async () => {
-    try {
-      const res = await axios.get(`/book/user/${authUser._id}`);
-      console.log("API response:", res.data);
-      setBooks(res.data.books); 
-    } catch (err) {
-      console.error("Fetch books failed:", err);
-      toast.error("Failed to fetch books");
-    }
-  };
+ const fetchUserBooks = async () => {
+  try {
+    const res = await axios.get(`/book/user/${authUser._id}`);
+    console.log("API response:", res.data);
+    setBooks(res.data); 
+  } catch (err) {
+    console.error("Fetch books failed:", err);
+    toast.error("Failed to fetch books");
+  }
+};
+
 
   const handleEdit = (book) => {
     setEditBook(book);
