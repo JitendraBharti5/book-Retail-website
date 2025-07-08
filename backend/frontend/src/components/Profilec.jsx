@@ -77,8 +77,10 @@ function Profilec() {
       <div>
         <h2 className="text-2xl font-bold mb-4">Your Listed Books</h2>
 
-        {Array.isArray(books) && books.length > 0 ? (
-          <div className="space-y-4">
+       {!Array.isArray(books) || books.length === 0 ? (
+          <p>No books posted yet.</p>
+        ) : (
+          <div className="flex flex-wrap gap-4">
             {books.map((book) => (
               <div
                 key={book._id}
@@ -107,10 +109,7 @@ function Profilec() {
               </div>
             ))}
           </div>
-        ) : (
-          <p>No books posted yet.</p>
         )}
-
         {editBook && (
           <div className="mt-10 p-4 border rounded-md dark:bg-slate-800 dark:text-white">
             <h3 className="text-xl font-bold mb-2">Edit Book</h3>
