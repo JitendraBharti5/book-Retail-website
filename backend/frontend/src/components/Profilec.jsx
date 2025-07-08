@@ -22,6 +22,7 @@ function Profilec() {
       console.log("API response:", res.data);
       setBooks(res.data.books); 
     } catch (err) {
+      console.error("Fetch books failed:", err);
       toast.error("Failed to fetch books");
     }
   };
