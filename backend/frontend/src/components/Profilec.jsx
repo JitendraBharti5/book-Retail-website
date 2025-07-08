@@ -18,7 +18,7 @@ function Profilec() {
 
   const fetchUserBooks = async () => {
     try {
-      const res = await axios.get(`/user/${authUser._id}`);
+      const res = await axios.get(`/book/user/${authUser._id}`);
       console.log("API response:", res.data);
       setBooks(res.data.books); 
     } catch (err) {
